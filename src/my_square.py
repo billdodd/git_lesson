@@ -1,9 +1,9 @@
 
-def my_square(x):
+def my_square(z):
     """
     takes an integer value and returns the sqared value
     uses the ** operator
     """
-    return(x ** 2)
+    return(z * z)
 
-print(my_square(4))
+print(my_square(24))
