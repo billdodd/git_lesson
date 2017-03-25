@@ -7,6 +7,10 @@ def my_square(y):
     return(y ** 2)
 
 def my_square2(x):
+    """
+    takes an integer value and returns the squared value
+    uses the ** operator
+    """
     return(x * x)
 
 print(my_square(42))
